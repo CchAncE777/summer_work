@@ -201,7 +201,7 @@ class heap_sort:
 
         start_time = time.perf_counter()
 
-        sorted_result = heap_sort(self._95_and_5.copy())
+        sorted_result = heap_sort(self._95_and_55.copy())
 
         end_time = time.perf_counter()
 
